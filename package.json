@@ -1,0 +1,10 @@
+{
+  "name": "dog-life",
+  "scripts": {
+    "example": "./node_modules/ts-node/dist/bin.js ./examples/libs/life-1"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
